@@ -140,3 +140,5 @@ C:\Users\Usuario\Desktop\Proyectos Tomas\Tomas\Backend\FinShark\api\bin\Debug\ne
 C:\Users\Usuario\Desktop\Proyectos Tomas\Tomas\Backend\FinShark\api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\Usuario\Desktop\Proyectos Tomas\Tomas\Backend\FinShark\api\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\Usuario\Desktop\Proyectos Tomas\Tomas\Backend\FinShark\api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Usuario\Desktop\Proyectos Tomas\Tomas\Backend\FinShark\api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Usuario\Desktop\Proyectos Tomas\Tomas\Backend\FinShark\api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
